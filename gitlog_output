@@ -1,0 +1,65 @@
+commit 0b3976a943201038efddb1d287c43463b4f9a032
+Author: ch1nmayx <chinmay.sinha@ucdconnect.ie>
+Date:   Fri Feb 16 13:41:40 2018 +0000
+
+    Added a few comments
+
+commit 9c3521a1dd92cfd42a9d97a1e6585d2fbea87316
+Author: ch1nmayx <chinmay.sinha@ucdconnect.ie>
+Date:   Fri Feb 16 13:36:20 2018 +0000
+
+    makefile for numericalIntegration
+
+commit 5a3cfc0eaa0c934c994b5cda7f183f75612c341d
+Author: ch1nmayx <chinmay.sinha@ucdconnect.ie>
+Date:   Fri Feb 16 13:13:22 2018 +0000
+
+    makefile for SimpsonsRule.c
+
+commit 49c9f2dff0e30c153bb17d3edc79bd18f7bd9527
+Author: ch1nmayx <chinmay.sinha@ucdconnect.ie>
+Date:   Fri Feb 16 13:12:57 2018 +0000
+
+    changed getch() option
+
+commit f5a09b4579f8e0aeb893f1397a80a40b7e603f77
+Author: ch1nmayx <chinmay.sinha@ucdconnect.ie>
+Date:   Fri Feb 16 13:06:42 2018 +0000
+
+    makefile for Determinant.c
+
+commit 974cac68031412c9d5c015559ef83fa629c94e24
+Author: ch1nmayx <chinmay.sinha@ucdconnect.ie>
+Date:   Fri Feb 16 12:57:19 2018 +0000
+
+    Makefile to run the Collatz Conjecture C Code
+
+commit 7806158a0a2bd5fbcf75da544ea30f378ecc7dd1
+Author: ch1nmayx <36523202+ch1nmayx@users.noreply.github.com>
+Date:   Fri Feb 16 11:20:55 2018 +0100
+
+    Add files via upload
+
+commit fd0333317c124018bcace9969a595e1ff8c489dc
+Author: ch1nmayx <36523202+ch1nmayx@users.noreply.github.com>
+Date:   Fri Feb 16 02:35:12 2018 +0100
+
+    Add files via upload
+
+commit 2f4773641c7fed2dc20f2afe53dd02d858cc15be
+Author: ch1nmayx <36523202+ch1nmayx@users.noreply.github.com>
+Date:   Fri Feb 16 01:12:40 2018 +0100
+
+    Add files via upload
+
+commit c2ece60e0e44991a0d24f3078a994b2beb76b127
+Author: ch1nmayx <36523202+ch1nmayx@users.noreply.github.com>
+Date:   Fri Feb 16 00:46:28 2018 +0100
+
+    Add files via upload
+
+commit 0ab6da4553ea77e95236fcf7f627491e471c66f5
+Author: ch1nmayx <36523202+ch1nmayx@users.noreply.github.com>
+Date:   Fri Feb 16 00:44:41 2018 +0100
+
+    Initial commit

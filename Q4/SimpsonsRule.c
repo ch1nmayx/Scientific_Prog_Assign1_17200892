@@ -9,7 +9,7 @@ Course - M.Sc Data and Computational Science
 
 #include<stdio.h>
 #include<math.h>
-#include<conio.h>
+//#include<conio.h>
 
 
 // degree to radian conversion function
@@ -115,7 +115,7 @@ int main()
        printf("\n# Intervals needed are %d\r\n", n + 1);
        printf("\n# Points needed are %d\r\n", n + 2);
        
-	   getch();
+//	   getch();
        return 0;
 }
 

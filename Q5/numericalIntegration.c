@@ -12,7 +12,7 @@ Course - M.Sc Data and Computational Science
 #include<stdio.h>
 #include<integration_include.h>
 #include<math.h>
-#include<conio.h>
+//#include<conio.h>
 
 // defining cases for various integration methods
 #define Trapez 1
@@ -96,7 +96,10 @@ int main()
       printf("Gauss Quadrature    %.5f\r\n", gauss(n,0.0,180.0)); 
   }
 
-  getch();
+//  getch();
   return 0;
 }
 
+
+// When we run the code we can see that Trapezoidal rule gives a more consitent result as compared to other methods
+// Also we see increase the intervals and points we can see the integration or the area below the curve begins to converge at a value
